@@ -52,3 +52,7 @@ th{
     padding:15px;
     background-color:forestgreen;
 }
+
+td{
+    border-collapse:separate;
+}
