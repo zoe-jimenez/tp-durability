@@ -45,3 +45,7 @@ table{
     padding:15px;
     background-color:green;
 }
+
+th{
+    border-collapse:separate;
+}
