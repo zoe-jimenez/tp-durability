@@ -1,5 +1,7 @@
 /* Feuille de style de la page « Le poids caché du web » */
 
 body {
-    background-color:darkgreen
+    background-color:darkgreen;
+    color:cadetblue
+
 }
