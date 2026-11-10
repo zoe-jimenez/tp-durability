@@ -38,3 +38,7 @@ img{
     max-width:800px;
     border-radius:20px;
 }
+
+table{
+    border-collapse:separate;
+}
