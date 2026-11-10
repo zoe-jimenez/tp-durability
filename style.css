@@ -33,3 +33,7 @@ a:hover{
     color:coral;
     text-decoration:line-through;
 }
+
+img{
+    max-width:800px;
+}
