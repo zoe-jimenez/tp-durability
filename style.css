@@ -31,4 +31,5 @@ a{
 
 a:hover{
     color:coral;
+    text-decoration:line-through;
 }
