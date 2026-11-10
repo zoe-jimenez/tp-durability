@@ -19,7 +19,9 @@ h1{
 
 h2{
     color:aqua;
-    border-bottom-width: 6px;
+    border-bottom-width: 3px;
+    border-bottom-style: dashed;
+
 
 
 }
