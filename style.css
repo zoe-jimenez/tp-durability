@@ -28,3 +28,7 @@ a{
     color:darkorchid;
     text-decoration:underline;
 }
+
+a:hover{
+    color:coral;
+}
